@@ -8,4 +8,5 @@ Write a javascript function that takes an array of numbers and a target number. 
 
 ## Question 3
 Write a function that converts HEX to RGB. Then Make that function autodect the formats so that if you enter HEX color format it returns RGB and if you enter RGB color format it returns HEX. Bonus: Release this tool as a npm package.
-[Link to package on npmjs.org] (https://www.npmjs.com/package/@julesdowork/rgbhexconverter)
+
+https://www.npmjs.com/package/@julesdowork/rgbhexconverter

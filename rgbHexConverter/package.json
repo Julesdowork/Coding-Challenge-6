@@ -1,0 +1,18 @@
+{
+  "name": "@julesdowork/rgbhexconverter",
+  "version": "1.0.1",
+  "description": "A simple script that translates RGB values to HEX values and vice-versa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "color",
+    "rgb",
+    "hex",
+    "design",
+    "hexadecimal"
+  ],
+  "author": "Julian McNeill <julesdowork@gmail.com> (http://julianmcneill.com/)",
+  "license": "MIT"
+}
